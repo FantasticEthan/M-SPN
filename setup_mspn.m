@@ -2,7 +2,6 @@
 %
 % Setup the environment for running mspn.
 %
-% Hyeonseob Nam, 2015 
 %
 
 if(isempty(gcp('nocreate')))
